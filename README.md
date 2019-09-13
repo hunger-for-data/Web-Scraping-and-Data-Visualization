@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## Web Scraping and Data Visualisation using Python and Tableau
 
-You can use the [editor on GitHub](https://github.com/hunger-for-data/Web-Scraping-and-Data-Visualization/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The Data is extracted from offical English Premier League website with the help of python library called BeautifulSoup. This pulled out data is stored in CSV format. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+Collected Data Description: 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The data mainly consists of statistics of 20 clubs in English Premier League for season 2019-20. These fields are:
+- team
+- website
+- total_matches_played
+- total_wins
+- total_losses
+- total_goals
+- goals_conceded
+- clean_sheets
+- goals_per_match
+- shooting_accuracy
+- total_passes
+- pass_accuracy
+- own_goals
+- errors_leading_to_goal
+- yellow_cards
+- red_cards
 
-```markdown
-Syntax highlighted code block
+Exploratory Data Analysis is done on this extracted data with help of Tableau Public and sheets are hosted in Tableau Public Cloud.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hunger-for-data/Web-Scraping-and-Data-Visualization/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+URL: https://public.tableau.com/profile/vipin.ragashetti#!/vizhome/ExporatoryDataAnalysisforEnglishPremierLeagueClubs/Dashboard-PLAnalysis
