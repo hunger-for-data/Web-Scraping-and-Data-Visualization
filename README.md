@@ -25,4 +25,4 @@ The data mainly consists of statistics of 20 clubs in English Premier League for
 
 Exploratory Data Analysis is done on this extracted data with help of Tableau Public and sheets are hosted in Tableau Public Cloud.
 
-[Link to Visualisation!](#https://public.tableau.com/profile/vipin.ragashetti#!/vizhome/ExporatoryDataAnalysisforEnglishPremierLeagueClubs/Dashboard-PLAnalysis)
+[Link to Visualisation!](https://public.tableau.com/profile/vipin.ragashetti#!/vizhome/ExporatoryDataAnalysisforEnglishPremierLeagueClubs/Dashboard-PLAnalysis)
