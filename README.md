@@ -1,6 +1,6 @@
 ## Web Scraping and Data Visualisation using Python and Tableau
 
-The Data is extracted from offical English Premier League website with the help of python library called BeautifulSoup. This pulled out data is stored in CSV format. 
+The Data is extracted from offical English Premier League website with the help of python library called BeautifulSoup. This pulled out data is stored in CSV format. The file name is in the form of premier_league_<timestamp>.csv
 
 
 Collected Data Description: 
